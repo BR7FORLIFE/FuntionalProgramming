@@ -13,3 +13,4 @@ print(" - ".join(lista))
 #4. Longitudes de palabras
 lista = [list(range(len(lista)))]
 print(lista)
+
